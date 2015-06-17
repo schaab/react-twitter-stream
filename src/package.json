@@ -12,20 +12,20 @@
     "author": "Jared Schaab",
     "license": "MIT",
     "dependencies": {
-        "express": "~4.9.7",
-        "express-handlebars": "~1.1.0",
-        "mongoose": "^3.8.17",
-        "node-jsx": "~0.11.0",
-        "ntwitter": "^0.5.0",
-        "react": "~0.11.2",
-        "socket.io": "^1.1.0"
+        "express": "*",
+        "express-handlebars": "*",
+        "mongoose": "*",
+        "node-jsx": "*",
+        "ntwitter": "*",
+        "react": "*",
+        "socket.io": "*"
     },
     "devDependencies": {
-        "browserify": "~6.0.3",
-        "nodemon": "^1.2.1",
-        "reactify": "~0.14.0",
-        "uglify-js": "~2.4.15",
-        "watchify": "~2.0.0"
+        "browserify": "^5.5.0",
+        "nodemon": "*",
+        "reactify": "*",
+        "uglify-js": "*",
+        "watchify": "*"
     },
     "browserify": {
         "transform": [
